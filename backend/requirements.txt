@@ -1,0 +1,22 @@
+#Used by pip to install dependencies
+#use pip install -r requirements.txt to install all dependencies
+
+#Flask framework
+Flask==2.0.2
+click==8.0.1
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+Werkzeug==2.0.1
+
+#Flask Packages
+Flask-Login==0.5.0
+Flask-Migrate==3.1.0
+Flask-Script==2.0.6
+Flask-SQLAlchemy==2.5.1
+Flask-WTF==0.15.1
+FLask-User==1.0.2
+
+#Automated tests
+pytest==6.2.4
+pytest-cov==2.12.1
